@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>gamecurve - Module - Logging</name>
+	<comment></comment>
+	<projects>
+		<project>gamecurve - Shell</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.powerflasher.fdt.core.FlashBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.powerflasher.fdt.core.FlashNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>AS3DS</name>
+			<type>2</type>
+			<locationURI>AS3DS</locationURI>
+		</link>
+		<link>
+			<name>PureMVC_MultiCore</name>
+			<type>2</type>
+			<locationURI>PureMVC_MultiCore</locationURI>
+		</link>
+		<link>
+			<name>PureMVC_MultiCore_Pipes</name>
+			<type>2</type>
+			<locationURI>PureMVC_MultiCore_Pipes</locationURI>
+		</link>
+		<link>
+			<name>gamecurve</name>
+			<type>2</type>
+			<locationURI>gamecurve/shell/src</locationURI>
+		</link>
+		<link>
+			<name>flex.swc</name>
+			<type>1</type>
+			<locationURI>Flex_3_SDK_1/frameworks/libs/flex.swc</locationURI>
+		</link>
+		<link>
+			<name>framework.swc</name>
+			<type>1</type>
+			<locationURI>Flex_3_SDK_1/frameworks/libs/framework.swc</locationURI>
+		</link>
+		<link>
+			<name>playerglobal.swc</name>
+			<type>1</type>
+			<locationURI>Flex_3_SDK_1/frameworks/libs/player/9/playerglobal.swc</locationURI>
+		</link>
+		<link>
+			<name>rpc.swc</name>
+			<type>1</type>
+			<locationURI>Flex_3_SDK_1/frameworks/libs/rpc.swc</locationURI>
+		</link>
+		<link>
+			<name>utilities.swc</name>
+			<type>1</type>
+			<locationURI>Flex_3_SDK_1/frameworks/libs/utilities.swc</locationURI>
+		</link></linkedResources>
+</projectDescription>

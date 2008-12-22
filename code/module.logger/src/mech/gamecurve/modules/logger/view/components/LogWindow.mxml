@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:TitleWindow xmlns:mx="http://www.adobe.com/2006/mxml"
+	title="Log Messages" layout="vertical" showCloseButton="true"
+	width="100%" height="100%">
+	
+	<mx:Script><![CDATA[
+	import mx.collections.ArrayCollection;
+	
+	[Bindable]
+	public var messages:ArrayCollection = new ArrayCollection ( );
+	
+	<]]></mx:Script>
+	
+	<mx:DataGrid id="messageGrid" dataProvider="{messages}">
+		<mx:columns>
+			<mx:DataGridColumn headerText="Time" dataField="time" />
+			<mx:DataGridColumn headerText="Sender" dataField="sender" />
+			<mx:DataGridColumn headerText="Message" dataField="message" />
+		</mx:columns>
+	</mx:DataGrid>
+</mx:TitleWindow>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<actionScriptProperties mainApplicationPath="gamecurve.mxml" version="3">
+  <compiler additionalCompilerArguments="-locale en_US" copyDependentFiles="true" enableModuleDebug="true" generateAccessible="false" htmlExpressInstall="true" htmlGenerate="true" htmlHistoryManagement="true" htmlPlayerVersion="9.0.124" htmlPlayerVersionCheck="true" outputFolderLocation="D:/Development/Flash/Projects/gamecurve/bin-debug" outputFolderPath="bin-debug" sourceFolderPath="src" strict="true" useApolloConfig="false" verifyDigests="true" warn="true">
+    <compilerSourcePath/>
+    <libraryPath defaultLinkType="3">
+      <libraryPathEntry kind="4" path=""/>
+      <libraryPathEntry kind="1" linkType="1" path="libs"/>
+      <libraryPathEntry autoExtract="true" kind="3" linkType="3" path="${PureMVC_MultiCore_Pipes}/bin/Utility_AS3_MultiCore_Pipes_1_0.swc" rslUrl="PMVC_MultiCore_Pipes.swf" sourcepath="${PureMVC_MultiCore_Pipes}/src" useDefaultLinkType="true"/>
+      <libraryPathEntry autoExtract="true" kind="3" linkType="3" path="${PureMVC_MultiCore}/bin/PureMVC_AS3_MultiCore_1_0_5.swc" rslUrl="PMVC_MultiCore.swf" sourcepath="${PureMVC_MultiCore}/src" useDefaultLinkType="true"/>
+      <libraryPathEntry autoExtract="true" kind="3" linkType="3" path="${AS3DS}/bin/as3ds.swc" rslUrl="AS3DS.swf" sourcepath="${AS3DS}/src" useDefaultLinkType="true"/>
+    </libraryPath>
+    <sourceAttachmentPath>
+      <sourceAttachmentPathEntry autoExtract="true" kind="3" linkType="3" path="${PureMVC_MultiCore_Pipes}/bin/Utility_AS3_MultiCore_Pipes_1_0.swc" rslUrl="PMVC_MultiCore_Pipes.swf" sourcepath="${PureMVC_MultiCore_Pipes}/src" useDefaultLinkType="true"/>
+      <sourceAttachmentPathEntry autoExtract="true" kind="3" linkType="3" path="${PureMVC_MultiCore}/bin/PureMVC_AS3_MultiCore_1_0_5.swc" rslUrl="PMVC_MultiCore.swf" sourcepath="${PureMVC_MultiCore}/src" useDefaultLinkType="true"/>
+      <sourceAttachmentPathEntry autoExtract="true" kind="3" linkType="3" path="${AS3DS}/bin/as3ds.swc" rslUrl="AS3DS.swf" sourcepath="${AS3DS}/src" useDefaultLinkType="true"/>
+    </sourceAttachmentPath>
+  </compiler>
+  <applications>
+    <application path="gamecurve.mxml"/>
+  </applications>
+  <modules/>
+  <buildCSSFiles/>
+</actionScriptProperties>
